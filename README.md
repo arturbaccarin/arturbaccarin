@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arturbaccarin
 - 👀 I’m interested in learning more IT things
-- 🌱 I’m currently learning Python, Go and Web Development.
+- 🌱 I’m currently specializing in Go and Back-End.
 
 
 <!---
